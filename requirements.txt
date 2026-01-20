@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 langchain
 langchain-ollama
 langchain-chroma
+=======
+langchain
+langchain-ollama
+langchain-chroma
+>>>>>>> 8210f05fc70792dd95551df7e1d862d436f815d4
 pandas
